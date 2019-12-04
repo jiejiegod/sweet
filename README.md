@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ma-app
 
 > '测试项目'
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# sweet
+>>>>>>> 0a0b536aab62b14bf1b02b33ea6bcc5c14ed2ec0
